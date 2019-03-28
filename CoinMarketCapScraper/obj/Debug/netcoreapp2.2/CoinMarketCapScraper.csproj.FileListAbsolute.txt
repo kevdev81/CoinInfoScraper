@@ -1,0 +1,11 @@
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\bin\Debug\netcoreapp2.2\CoinMarketCapScraper.deps.json
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\bin\Debug\netcoreapp2.2\CoinMarketCapScraper.runtimeconfig.json
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\bin\Debug\netcoreapp2.2\CoinMarketCapScraper.runtimeconfig.dev.json
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\bin\Debug\netcoreapp2.2\CoinMarketCapScraper.dll
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\bin\Debug\netcoreapp2.2\CoinMarketCapScraper.pdb
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\obj\Debug\netcoreapp2.2\CoinMarketCapScraper.csprojAssemblyReference.cache
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\obj\Debug\netcoreapp2.2\CoinMarketCapScraper.csproj.CoreCompileInputs.cache
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\obj\Debug\netcoreapp2.2\CoinMarketCapScraper.AssemblyInfoInputs.cache
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\obj\Debug\netcoreapp2.2\CoinMarketCapScraper.AssemblyInfo.cs
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\obj\Debug\netcoreapp2.2\CoinMarketCapScraper.dll
+D:\Projects\MarketCoinCapScraper\CoinMarketCapScraper\CoinMarketCapScraper\obj\Debug\netcoreapp2.2\CoinMarketCapScraper.pdb
